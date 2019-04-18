@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ServeriTCP", "ServeriTCP\ServeriTCP.pyproj", "{94227C71-AEC3-4CFC-B488-FBDE98B86CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94227C71-AEC3-4CFC-B488-FBDE98B86CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94227C71-AEC3-4CFC-B488-FBDE98B86CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA75035-9BFD-4FD6-9DCF-7C2648FD7601}
+	EndGlobalSection
+EndGlobal
